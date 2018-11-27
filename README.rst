@@ -1,41 +1,20 @@
-Template
-========
+ ==================
+ Название документа
+ ==================
+ 
+ Заголовок
+ ---------
+ 
+ Какой-нибудь простой текст, *текст курсивом*, **текст жирным шрифтом** и ссылка_:
+ 
+ * элемент маркированного списка
+ * элемент маркированного списка
+ 
+ 1. Первый элемент нумерованного списка
+ 2. Второй элемент нумерованного списка
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+ .. figure:: http://upload.wikimedia.org/wikipedia/commons/f/f6/Wikipedia-logo-v2-ru.png
+ 
+     Логотип русской Википедии 
+ 
+ .. _ссылка: http://ru.wikipedia.org
